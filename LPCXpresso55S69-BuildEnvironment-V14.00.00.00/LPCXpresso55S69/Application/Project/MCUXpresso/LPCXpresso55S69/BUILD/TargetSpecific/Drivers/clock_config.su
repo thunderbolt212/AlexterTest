@@ -1,0 +1,6 @@
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/clock_config.c:70:6:BOARD_BootClockFRO12M	16	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/clock_config.c:118:6:BOARD_BootClockFROHF96M	16	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/clock_config.c:174:6:BOARD_BootClockPLL100M	56	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/clock_config.c:250:6:BOARD_BootClockPLL150M	56	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/clock_config.c:43:6:BOARD_InitBootClocks	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/clock_config.c:323:6:BOARD_BootClockPLL1_150M	56	static

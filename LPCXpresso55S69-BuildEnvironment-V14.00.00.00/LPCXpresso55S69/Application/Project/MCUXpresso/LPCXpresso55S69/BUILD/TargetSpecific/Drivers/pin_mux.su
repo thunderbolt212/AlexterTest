@@ -1,0 +1,6 @@
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/pin_mux.c:29:6:BOARD_InitBootPins	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/pin_mux.c:67:6:BOARD_InitPins	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/pin_mux.c:242:6:SPI8_InitPins	4	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/pin_mux.c:325:6:SPI8_DeinitPins	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/pin_mux.c:350:6:I2C4_InitPins	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/pin_mux.c:403:6:I2C4_DeinitPins	0	static

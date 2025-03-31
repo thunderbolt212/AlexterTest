@@ -1,0 +1,6 @@
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/fsl_ft6x06.c:34:6:FT6X06_EventHandler	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/fsl_ft6x06.c:53:10:FT6X06_Init	24	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/fsl_ft6x06.c:87:10:FT6X06_Denit	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/fsl_ft6x06.c:100:10:FT6X06_ReadTouchData	24	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/fsl_ft6x06.c:135:10:FT6X06_GetSingleTouch	32	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/fsl_ft6x06.c:169:10:FT6X06_GetMultiTouch	24	static

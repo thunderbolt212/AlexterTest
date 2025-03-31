@@ -1,0 +1,13 @@
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_spi_cmsis.c:448:27:SPIx_GetVersion	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_spi_cmsis.c:453:29:SPIx_GetCapabilities	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_spi_cmsis.c:936:13:KSDK_SPI_MasterInterruptCallback	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_spi_cmsis.c:2815:16:SPI8_InterruptUninitialize	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_spi_cmsis.c:2807:16:SPI8_InterruptInitialize	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_spi_cmsis.c:2853:23:SPI8_InterruptGetStatus	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_spi_cmsis.c:2843:17:SPI8_InterruptGetCount	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_spi_cmsis.c:2838:16:SPI8_InterruptTransfer	32	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_spi_cmsis.c:2833:16:SPI8_InterruptReceive	24	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_spi_cmsis.c:2828:16:SPI8_InterruptSend	24	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_spi_cmsis.c:2823:16:SPI8_InterruptPowerControl	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_spi_cmsis.c:2848:16:SPI8_InterruptControl	48	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_spi_cmsis.c:960:13:KSDK_SPI_SlaveInterruptCallback	0	static

@@ -1,0 +1,12 @@
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/drivers/fsl_power.c:356:13:POWER_EnterLowPower	24	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/drivers/fsl_power.c:1378:13:lowpower_set_voltage_for_process	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/drivers/fsl_power.c:403:6:POWER_CycleCpuAndFlash	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/drivers/fsl_power.c:422:6:POWER_EnterDeepSleep	88	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/drivers/fsl_power.c:509:6:POWER_EnterPowerDown	152	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/drivers/fsl_power.c:634:6:POWER_EnterDeepPowerDown	96	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/drivers/fsl_power.c:722:6:POWER_EnterSleep	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/drivers/fsl_power.c:1461:6:POWER_SetVoltageForFreq	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/drivers/fsl_power.c:1486:6:POWER_Xtal16mhzCapabankTrim	20	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/drivers/fsl_power.c:1551:6:POWER_Xtal32khzCapabankTrim	16	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/drivers/fsl_power.c:1608:6:POWER_SetXtal16mhzLdo	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/drivers/fsl_power.c:1659:6:POWER_GetWakeUpCause	12	static

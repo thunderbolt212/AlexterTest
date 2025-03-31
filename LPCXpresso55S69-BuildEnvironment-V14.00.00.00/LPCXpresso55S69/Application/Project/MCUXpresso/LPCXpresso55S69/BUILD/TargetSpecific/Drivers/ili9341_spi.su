@@ -1,0 +1,8 @@
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/ili9341_spi.c:154:13:SPI_MasterSignalEvent	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/ili9341_spi.c:196:13:ILI9341_WriteByte	24	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/ili9341_spi.c:179:13:ILI9341_WriteCmnd	24	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/ili9341_spi.c:149:10:SPI8_GetFreq	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/ili9341_spi.c:236:6:ILI9341_Init	24	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/ili9341_spi.c:435:10:ILI9341_ReadID	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/ili9341_spi.c:468:6:ILI9341_WaitForCompletion	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/Drivers/ili9341_spi.c:493:6:ILI9341_WriteDataWindow	40	static

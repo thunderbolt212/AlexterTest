@@ -1,0 +1,15 @@
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_i2c_cmsis.c:88:27:I2Cx_GetVersion	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_i2c_cmsis.c:93:29:I2Cx_GetCapabilities	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_i2c_cmsis.c:381:13:KSDK_I2C_SLAVE_InterruptCallback	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_i2c_cmsis.c:401:13:KSDK_I2C_MASTER_InterruptCallback	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_i2c_cmsis.c:1634:16:I2C4_InterruptGetDataCount	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_i2c_cmsis.c:1601:16:I2C4_InterruptUninitialize	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_i2c_cmsis.c:1593:16:I2C4_InterruptInitialize	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_i2c_cmsis.c:1644:23:I2C4_InterruptGetStatus	16	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_i2c_cmsis.c:638:16:I2C_InterruptControl.constprop	16	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_i2c_cmsis.c:1609:16:I2C4_InterruptPowerControl	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_i2c_cmsis.c:1639:16:I2C4_InterruptControl	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_i2c_cmsis.c:1629:16:I2C4_Slave_InterruptReceive	16	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_i2c_cmsis.c:1614:16:I2C4_Master_InterruptTransmit	56	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_i2c_cmsis.c:1624:16:I2C4_Slave_InterruptTransmit	16	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/ThirdParty/MCUXpressoSDK/devices/LPC55S69/cmsis_drivers/fsl_i2c_cmsis.c:1619:16:I2C4_Master_InterruptReceive	56	static

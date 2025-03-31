@@ -1,0 +1,11 @@
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/PlatformPackage/RGB565/ewextgfx.c:130:5:GfxInitGfx	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/PlatformPackage/RGB565/ewextgfx.c:174:7:GfxInitViewport	24	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/PlatformPackage/RGB565/ewextgfx.c:305:6:GfxDoneViewport	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/PlatformPackage/RGB565/ewextgfx.c:345:7:GfxBeginUpdate	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/PlatformPackage/RGB565/ewextgfx.c:394:7:GfxBeginUpdateArea	16	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/PlatformPackage/RGB565/ewextgfx.c:476:6:GfxEndUpdate	12	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/PlatformPackage/RGB565/ewextgfx.c:529:7:GfxCreateSurface	32	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/PlatformPackage/RGB565/ewextgfx.c:619:7:GfxCreateConstSurface	32	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/PlatformPackage/RGB565/ewextgfx.c:686:6:GfxDestroySurface	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/PlatformPackage/RGB565/ewextgfx.c:756:7:GfxLockSurface	24	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/PlatformPackage/RGB565/ewextgfx.c:831:6:GfxUnlockSurface	0	static

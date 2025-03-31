@@ -1,0 +1,3 @@
+#List of "project<build_config><tool>=state" or "project=state" entries associated to "-ffreestanding"-related markers that are ignored in current workspace.
+#Sun Mar 30 17:20:15 CDT 2025
+lpcxpresso55s69_hello_world=ignoreUIWarning

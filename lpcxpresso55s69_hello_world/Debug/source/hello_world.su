@@ -1,0 +1,2 @@
+C:\nxp\AlexterTest\lpcxpresso55s69_hello_world\drivers/fsl_power.h:398:20:POWER_SetBodVbatLevel	16	static
+../source/hello_world.c:31:5:main	16	static

@@ -1,0 +1,4 @@
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_console.c:60:6:EwBspConsoleInit	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_console.c:79:6:EwBspConsoleDone	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_console.c:99:6:EwBspConsolePutCharacter	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_console.c:121:15:EwBspConsoleGetCharacter	0	static

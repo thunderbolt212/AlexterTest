@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="LastUsedSourceTemplate" value="Default C source template"/>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+	<section name="PDOMSearchPage">
+		<item key="caseSensitive" value="false"/>
+		<item key="searchFlags" value="227191"/>
+		<list key="previousPatterns">
+			<item value="EwBspInOutParameter1Update"/>
+			<item value="ew_bsp_inout"/>
+			<item value="EwsBUpdateParameter1"/>
+			<item value="UpdateParameter1"/>
+			<item value="StageEffect1Parameter1"/>
+			<item value="Stage1EffectOnSelect"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,6 @@
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_display.c:105:5:EwBspDisplayInit	16	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_display.c:153:6:EwBspDisplayDone	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_display.c:180:5:EwBspDisplayGetUpdateArea	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_display.c:235:6:EwBspDisplayWaitForCompletion	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_display.c:265:6:EwBspDisplayCommitBuffer	32	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_display.c:316:6:EwBspDisplaySetClut	0	static

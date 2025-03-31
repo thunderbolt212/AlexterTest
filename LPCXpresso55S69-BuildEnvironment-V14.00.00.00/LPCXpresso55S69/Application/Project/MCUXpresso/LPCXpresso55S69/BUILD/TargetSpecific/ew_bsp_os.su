@@ -1,0 +1,14 @@
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_os.c:65:13:EwBspOsGetName	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_os.c:87:6:EwBspOsSystickHandler	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_os.c:117:15:EwBspOsGetTicks	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_os.c:146:6:EwBspOsDelay	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_os.c:182:15:EwBspOsThreadCreate	32	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_os.c:208:6:EwBspOsThreadDestroy	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_os.c:228:15:EwBspOsThreadGetHandle	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_os.c:253:6:EwBspOsSignalWait	16	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_os.c:280:6:EwBspOsSignalSet	32	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_os.c:312:18:EwBspOsSemaphoreCreate	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_os.c:335:5:EwBspOsSemaphoreWait	16	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_os.c:381:6:EwBspOsSemaphoreRelease	16	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_os.c:409:6:EwBspOsSemaphoreDestroy	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_os.c:429:6:EwBspOsStartScheduler	0	static

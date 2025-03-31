@@ -1,0 +1,7 @@
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_clock.c:127:6:vApplicationTickHook	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_clock.c:148:6:EwBspClockInit	16	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_clock.c:175:15:EwBspClockGetTime	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_clock.c:195:6:EwBspClockSetTime	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_clock.c:221:6:EwBspClockGetCpuLoad	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_clock.c:257:6:EwBspClockCpuLoadSetActive	4	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_clock.c:283:6:EwBspClockCpuLoadSetIdle	4	static

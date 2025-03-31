@@ -1,0 +1,5 @@
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_touch.c:98:13:I2C_MasterSignalEvent	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_touch.c:93:10:I2C4_GetFreq	0	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_touch.c:122:5:EwBspTouchInit	16	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_touch.c:203:6:EwBspTouchDone	8	static
+C:/nxp/AlexterTest/LPCXpresso55S69-BuildEnvironment-V14.00.00.00/LPCXpresso55S69/TargetSpecific/ew_bsp_touch.c:231:5:EwBspTouchGetEvents	72	static
